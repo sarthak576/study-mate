@@ -1,7 +1,10 @@
+ !["Hello"](src/assets/GitHub-logo.gif) 
+ 
 ## Table of contents
 * [Introduction](#Intro)
-* [Installation](#Installation)
-* [Start](#start)
+* [Installation](#Installation)                                                                                                  
+* [Start](#start) 
+                                           
 
 ## Intro
 helps in managing and customizing your study routines ...
