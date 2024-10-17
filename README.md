@@ -4,7 +4,8 @@
 * [Start](#start)
 
 ## Intro
-helps in managing and customizing your study routines ...
+helps in managing and customizing your study routines ...   ![](./src/assets/GitHub-logo.gif)
+
 
 ## Installation
 Project is created with:
