@@ -16,7 +16,7 @@ This tool helps you **manage** and **customize** your study routines, making lea
 ## Installation
 To get started, you’ll need to set up the project using the following technologies:
 * **Express** - For building the backend
-* **React** - For creating a dynamic user interface
+* **React** - For creating a dynamic user interface (UI)
 * **Node** - To run your JavaScript server
 
 ### Quick Installation Steps:
