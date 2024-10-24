@@ -21,3 +21,9 @@ To set up the project, ensure you have the following tools:
 1. Clone the repository:
    ```bash
    git clone <repo-url>
+2. Install the dependecies:
+    ```bash
+    npm install
+3. Start the server:
+    ```bash
+    npm start
